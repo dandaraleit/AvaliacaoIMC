@@ -105,7 +105,7 @@ public class AvaliacaoIMC {
 		
 		System.out.println(" ");
 		
-		System.out.println("  -------------- RELATÓRIO DE SAÚDE DOS PACIENTES --------------  ");
+		System.out.println("  -------------- RELATÓRIO DE SAÚDE DAS PESSOAS AVALIADAS --------------  ");
 			
 		System.out.println(" ");
 		
