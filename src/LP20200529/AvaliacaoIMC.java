@@ -112,7 +112,7 @@ public class AvaliacaoIMC {
 			for(int i = 0; i<tam; i++) {
 				
 				System.out.println((i+1) + "ª Pessoa: " + pacientes[i] + " -> Peso: " + pesos[i] + 
-						" | IMC: " + df.format(IMCs[i]) + "kg/m2" + " | Diagnóstico: " + diagnosticos[i]);
+						"kg | IMC: " + df.format(IMCs[i]) + "kg/m2" + " | Diagnóstico: " + diagnosticos[i]);
 						
 				
 			}
