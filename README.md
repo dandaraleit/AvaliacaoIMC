@@ -1,5 +1,5 @@
 # Avaliação IMC
-Projeto de AP2 para a disciplina de Lógica de Programação (29maio2020)
+Projeto de AP2 em programação estruturada para a disciplina de Lógica de Programação (29maio2020)
 
 Do que se trata?
 
